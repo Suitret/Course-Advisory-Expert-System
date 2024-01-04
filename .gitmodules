@@ -1,0 +1,3 @@
+[submodule "install_pyke/pyke3"]
+	path = install_pyke/pyke3
+	url = https://github.com/evertrol/pyke3.git
